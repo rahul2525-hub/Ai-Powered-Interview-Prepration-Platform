@@ -1,1 +1,8 @@
+# Environment variables
 .env
+
+# Dependencies
+node_modules/
+
+# Keep example environment file
+!.env.example
